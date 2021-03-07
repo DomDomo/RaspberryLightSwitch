@@ -1,4 +1,6 @@
-
+'''
+Used for debugging relay by testing if signal is being sent from the GPIO pins
+'''
 import RPi.GPIO as GPIO
 import time
 
