@@ -1,5 +1,5 @@
 # RaspberryLightSwitch
-This is the code to run my webserver for my website activated light
+This repository contains the code for my remote light switch app. The app allows you to turn a light on and off remotely using a Raspberry Pi hosting a web server that is connected to a relay.
 
 ## Steps
 
@@ -14,4 +14,4 @@ This is the code to run my webserver for my website activated light
 
 1) The template HTML and CSS seems counter-intuitive. That's because I rewired the relay so it's set to always on.
 2) The tutorials aren't perfect and you'll need to do some thinking to make them work. Usually, just add sudo to commands.
-3) I am a dumbass.
+3) The final app is not perfect but works as intented.
